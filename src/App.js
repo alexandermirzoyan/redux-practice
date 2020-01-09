@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Form from './pages/Form';
+import Form from './components/Form';
 
 import { connect } from 'react-redux';
 import addArticle from './redux/actions/actions';
